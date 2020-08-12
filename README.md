@@ -1,4 +1,4 @@
 # summary_papers
 
-This is a place for summary of papers I read.
+Here is a place for summaries of papers I read.
 (for me)
